@@ -260,7 +260,7 @@
 	}
 
 	#bg {
-		background-size: 2250px auto;
+		
 		width: 6750px;
 	}
 
@@ -764,9 +764,10 @@
 		}
 
 		#bg {
-			background-size: 1500px auto;
+			
 			width: 4500px;
-		} }
+		}
+
 
 /* Normal */
 
@@ -846,9 +847,9 @@
 		}
 
 		#bg {
-			background-size: 750px auto;
+			
 			width: 2250px;
-		} }
+		} 
 
 /* Mobile */
 
@@ -932,7 +933,7 @@
 		}
 
 		#bg {
-			background-size: 300px auto;
+			
 			width: 900px;
 		}
 
@@ -1030,12 +1031,12 @@
 		}
 
 		#bg {
-			background-size: 412.5px auto;
+			
 			width: 1237.5px;
 		}
 
 	/* Header */
 
 		#header nav {
-			padding: 0 1em;
+			
 		} }
