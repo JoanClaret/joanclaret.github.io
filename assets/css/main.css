@@ -113,6 +113,25 @@
 		.icon > .label {
 			display: none;
 		}
+/* Featured post */
+
+.featured-post-link {
+	text-decoration: none;
+	border-bottom: 0;
+}
+
+.featured-post-image {
+	max-width: 100px;
+	border-radius:1000px;
+	border:1px solid #fff;
+}
+@media only screen and (min-width : 737px) {
+	.featured-post-image {
+		max-width: 150px;
+	}
+}
+
+
 
 /* Wrapper */
 
